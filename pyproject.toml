@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13,<3.14"
 dependencies = [
     "chonkie[all]>=1.6.1",
+    "deepagents>=0.4.12",
     "faiss-cpu>=1.13.2",
     "langchain>=1.2.13",
     "langchain-anthropic>=1.4.0",
